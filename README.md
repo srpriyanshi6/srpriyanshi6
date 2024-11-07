@@ -2,13 +2,13 @@
 <h3 align="center">A Junior Year student at IIT Patna and a curious learner</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/priyanshi-sablok-2242552b4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin Logo"  />
+  <a href="https://www.linkedin.com/in/priyanshi-sablok-2242552b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="Linkedin Logo"  />
   </a>
-  <a href="sabpriyanshi0604@gmail.com" target="_blank">
+  <a href="mailto:sabpriyanshi0604@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
   </a>
-  <a href="2201cb41_priyanshi@iitp.ac.in" target="_blank">
+  <a href="mailto:2201cb41_priyanshi@iitp.ac.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Microsoft-Outlook Logo"  />
   </a>
   <a href="https://codeforces.com/profile/priyanshi623" target="_blank">
