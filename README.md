@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi</h1>
-<h3 align="center">A Junior Year student at IIT Patna and a curious learner</h3>
+<h3 align="center">A Final Year student at IIT Patna and a curious learner</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/priyanshi-sablok-2242552b4" target="_blank">
@@ -22,12 +22,12 @@
 ###
 
 Welcome to my GitHub profile!
-- 🌱 I’m constantly learning and exploring new technologies, with my current focus on contributing to **Open Source Programs**.
-- 👩‍💻 Experienced with a full stack tech stack, including **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, TailwindCSS, Bootstrap**, and databases like **MySQL** and **MongoDB** and with programming languages like **C/C++, Python**.
-- ⚡ I’m constantly working on personal projects to enhance my skills and expand my knowledge.
-- 🛠️ I'm also skilled in developing machine learning models and currently trying to refine my skills in that domain.
-- 🎯 I enjoy competitive programming, case competitions, and finding efficient solutions to challenging problems.
-- 💬 Ask me about web development, data structures, algorithms, or anything related to software engineering. I'm here to help!</p>
+- I’m constantly learning and exploring new technologies.
+- Experienced with a full stack tech stack, including **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, TailwindCSS, Bootstrap**, and databases like **MySQL** and **MongoDB** and with programming languages like **C/C++, Python**.
+- I’m constantly working on personal projects to enhance my skills and expand my knowledge.
+- I'm also skilled in developing machine learning models and currently trying to refine my skills in that domain.
+- I enjoy competitive programming, case competitions, and finding efficient solutions to challenging problems.
+- Ask me about web development, data structures, algorithms, or anything related to software engineering.</p>
 
 ### 🛠 Language and tools: 
 
